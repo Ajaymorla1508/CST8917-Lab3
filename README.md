@@ -116,7 +116,7 @@ body('HTTP')?['documents'][0]?['sentiment'].
 ```
 
 ### Youtube Demo Link:
-[Watch the 5-minute demo on YouTube](https://www.youtube.com/watch?v=hAxia1WSjkw)
+[Watch the 5-minute demo on YouTube](https://www.youtube.com/watch?v=s6p_Plc0KFc)
 
 ---
 
